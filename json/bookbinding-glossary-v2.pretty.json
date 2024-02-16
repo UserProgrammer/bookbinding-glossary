@@ -1,0 +1,699 @@
+{
+  "bookbindingGlossary": [
+    {
+      "term": "Adhesive binding, unsewn binding",
+      "definitions": [
+        {
+          "definition": "A binding made of single sheets stuck together at the back with glue or paste.",
+          "sourceId": 1
+        },
+        {
+          "definition": "A method of joining single sheets together by applying adhesive either to the extreme back margins or to the roughened edges of the knocked-up sheets.",
+          "sourceId": 2
+        }
+      ]
+    },
+    {
+      "term": "All along",
+      "definitions": ["A method of sewing in which one or more sections are sewn along their length."]
+    },
+    {
+      "term": "Alum",
+      "definitions": ["A salt used to prepare a skin for binding, rendering it soft, flexible, and white in colour."]
+    },
+    {
+      "term": "Antique paper",
+      "definitions": ["A paper rough to the touch, lightweight, often bulky, but with little size."]
+    },
+    {
+      "term": "AO",
+      "definitions": ["The basic size in the ISO (International Standards Organisation) series of papers and boards. A0 equals 1189 x 841 mm (i.e. one square metre)."]
+    },
+    {
+      "term": "Art paper, coated paper",
+      "definitions": ["A paper originally made from esparto grass fibre, coated with china clay and casein glue and glazed with rollers under pressure. Traditionally used for halftone printing."]
+    },
+    {
+      "term": "Backing",
+      "definitions": ["Fanning out and hammering the back of the book to form joints or shoulders to accommodate the cover boards."]
+    },
+    {
+      "term": "Backing boards",
+      "definitions": ["Wedge-shaped boards, usually of beech. They are angled at the wide ends to assist in making the joint on the spine when backing."]
+    },
+    {
+      "term": "Bands",
+      "definitions": ["The cords or thongs on which the sections of a book are sewn. If the cords are laid into grooves so that they lie flush with or slightly below the surface of the back, they are referred to as recessed cords. If the cords or thongs are not recessed, they form ridges across the backbone of the book and are referred to as raised bands."]
+    },
+    {
+      "term": "Bank",
+      "definitions": ["A thin writing paper, white or tinted."]
+    },
+    {
+      "term": "Clamshell",
+      "definitions": ["2x two part trays constructed as one piece box."]
+    },
+    {
+      "term": "De-bossing",
+      "definitions": ["Image pushed in to material using a die or lettering."]
+    },
+    {
+      "term": "Drop back",
+      "definitions": ["Two trays attached to a case. Right hand tray housing a book or text, left hand tray to close over right tray to create the box."]
+    },
+    {
+      "term": "Die-cut slip case",
+      "definitions": ["Die-Cut board up to a thickness off 2.3mm. Edges not as sharp as pieced. More economic on longer runs."]
+    },
+    {
+      "term": "Filler",
+      "definitions": ["A chemical such as china clay or starch, added to paper and cloth to bulk it out. When added to paper it also makes it whiter and more receptive to high polishing for fine printing."]
+    },
+    {
+      "term": "Filling in",
+      "definitions": ["The operation of filling in the space on the inside of the front or back board left uncovered by the cloth or covering material with pulp or manilla card. This levels the surfaces so that the endpapers lie flat, and is called a filler."]
+    },
+    {
+      "term": "Fillet",
+      "definitions": ["A continuous plain line produced by a wheel-shaped finishing tool of the same name."]
+    },
+    {
+      "term": "Finishing",
+      "definitions": ["The second of two principal processes involved in binding a book: the titling, decoration and polishing of the cover."]
+    },
+    {
+      "term": "Flexible style",
+      "definitions": ["A style of binding in which the sections are sewn onto lengths of twisted pigskin or hemp cord (known as bands) placed across and on the outside of the sections. The ends of these are called slips and are laced into the boards. The binding has a tight back."]
+    },
+    {
+      "term": "Flush binding",
+      "definitions": ["A binding whose cover is the same size as the sections."]
+    },
+    {
+      "term": "Fly leaf",
+      "definitions": ["See endpapers."]
+    },
+    {
+      "term": "Fold to paper",
+      "definitions": ["Folding sections by machine (and occasionally by hand) by lining up the edges of the paper."]
+    },
+    {
+      "term": "Fold to print",
+      "definitions": ["When the printed type is out of square with the edge of the sheet, lining up the top line of type at each fold so that the margins are even. This applies only to hand folding."]
+    },
+    {
+      "term": "Folio",
+      "definitions": ["1. A sheet of paper in one of the traditional sizes, folded once to give two leaves. 2. A book made of such sheets, i.e. the largest format possible in that particular size."]
+    },
+    {
+      "term": "Foredge",
+      "definitions": ["The front edge of a book, opposite the spine. So called because this edge originally faced outward from the shelves and the title was painted, inked or scorched on the edges of the leaves."]
+    },
+    {
+      "term": "Foredge painting",
+      "definitions": ["The painting of the front edge of a book, where the page block is fanned and an image is applied to the stepped surface of the page edges. If the page edges are themselves gilded, this then results in the image disappearing when the book is closed again. See also foredge and edge gilding."]
+    },
+    {
+      "term": "Forwarding",
+      "definitions": ["The first of the two principal processes involved in bookbinding: the production of the binding itself."]
+    },
+    {
+      "term": "Frame sewing",
+      "definitions": ["Sewing through sections, often with a tape for extra strength. Used for one off books, registers and journals."]
+    },
+    {
+      "term": "French groove",
+      "definitions": ["In the library style, the groove down the edge of the spine, between the joint and the board. Its function is to enable the thick leather used in this binding style to fold more easily at the hinge."]
+    },
+    {
+      "term": "French sewing",
+      "definitions": ["The sewing together of two or more sections without tapes. Each section is linked to the rest by catching up the loops of thread of the preceding section."]
+    },
+    {
+      "term": "Frontispiece",
+      "definitions": ["The illustration facing the title page of a book."]
+    },
+    {
+      "term": "Full binding",
+      "definitions": ["See whole binding."]
+    },
+    {
+      "term": "Furniture",
+      "definitions": ["Anything attached to the boards, e.g. clasps, metal cornerpieces, bosses."]
+    },
+    {
+      "term": "Gathering",
+      "definitions": ["Collecting the sections or sheets together in the correct sequence to make up a complete book."]
+    },
+    {
+      "term": "Gilding",
+      "definitions": ["See edge gilding."]
+    },
+    {
+      "term": "Glaire, glair",
+      "definitions": ["A preparation of white of egg or shellac used to fix the gold leaf in tooling and edge gilding."]
+    },
+    {
+      "term": "Gold foil",
+      "definitions": ["Gold (or gold substitute) sprayed electronically onto a plastic, paper or cellophane backing. Used industrially for the titling of mass-produced books and by the craft binder for economical bindings."]
+    },
+    {
+      "term": "Gold leaf",
+      "definitions": ["An alloy of 22 carats gold and 2 carats silver, beaten by machine to a thinness of 1/250,000 of an inch (.0000025 cm) and used for titling and decorating books."]
+    },
+    {
+      "term": "Gold tooling",
+      "definitions": ["A method of book decoration involving the impressing of heated tools through gold leaf into the leather or cloth."]
+    },
+    {
+      "term": "Grain (direction), machine direction",
+      "definitions": ["The orientation of the fibres in paper and board, or of the warp thread in cloth. The grain must always run from head to tail of the book."]
+    },
+    {
+      "term": "Greek style",
+      "definitions": ["A style of decoration used particularly in the fifteenth and sixteenth centuries on the bindings of classical Greek texts, characterised by the extension of the spine leather at head and tail to protect double endbands, also use of grooved wooden boards and four clasps of plaited leather catching onto pins."]
+    },
+    {
+      "term": "GSM",
+      "definitions": ["Grams per square metre. The standard measurement used for weighing paper and board."]
+    },
+    {
+      "term": "Guard book",
+      "definitions": ["A type of binding, e.g. a photograph album, in which the spine is bulked out by the addition of narrow strips or folds of paper so that it is the right size when photographs or other inserts are added."]
+    },
+    {
+      "term": "Guards, guarding",
+      "definitions": ["1. Strips of paper or cloth pasted or glued to the back folds of sections, or to single diagrams or maps, for their repair or reinforcement. 2. Narrow folds or strips of paper or card used in guard books."]
+    },
+    {
+      "term": "Half binding",
+      "definitions": ["An economical covering style in which the spine and corners, or spine and foredge strips, are covered with a good material (e.g. leather) and the remainder with a cheaper one (e.g. cloth)."]
+    },
+    {
+      "term": "Half-title page, half-title",
+      "definitions": ["The recto of the first or second leaf of a book, on which is printed the brief title."]
+    },
+    {
+      "term": "Head",
+      "definitions": ["The top edge of a binding or page."]
+    },
+    {
+      "term": "Headband",
+      "definitions": ["A true headband consists of coloured threads entwined tightly round a core of vellum backed with leather, and is sewn through the sections, filling the gap at the spine between the top or bottom of the section and the edges of the boards. It thus helps to prevent the sections collapsing through the effect of gravity, and also serves to lessen the damage done when the book is pulled off the shelf by its headcap. Imitation headbands, which are purely decorative, are merely stuck to the back folds of the sections. The band at the tail of the book is sometimes called the tailband, and both head and tailbands are collectively referred to as endbands."]
+    },
+    {
+      "term": "Headcap",
+      "definitions": ["In leather bindings, a shaped and modelled turn-in over the top and bottom of the spine."]
+    },
+    {
+      "term": "Hollow",
+      "definitions": ["A paper tube stuck to the spine of a book, to which the covering material is attached. The resulting hollow back allows a freer opening for sections of stiff paper, or for books in which entries are to be made, and allows books bound in stiff material such as vellum and buckram to open more freely."]
+    },
+    {
+      "term": "Hot foil blocking",
+      "definitions": ["Foil can be adhered to most paper and cloth surfaces. Available in many different colours and finishes. Applied using a die or lettering. Used on books, boxes and slipcases."]
+    },
+    {
+      "term": "Hot pressed",
+      "definitions": ["Paper which is glazed (rather than surfaced) by being pressed when dry between hot, polished metal plates. Used for writing and fine printing paper. See also not and rough."]
+    },
+    {
+      "term": "Imposition",
+      "definitions": ["The inside hinge of the cover, made of the fold of the endpapers and sometimes cloth or leather. See also joint."]
+    },
+    {
+      "term": "Insert",
+      "definitions": ["Additional matter placed within a book or pamphlet without being permanently fixed (e.g. a diagram in a pocket at the end of a book)."]
+    },
+    {
+      "term": "Inset",
+      "definitions": ["(To fix) additional matter within a book by sewing or sticking, e.g. an illustration plate within the text."]
+    },
+    {
+      "term": "Jaconette",
+      "definitions": ["White cotton cloth, open or closely woven according to quality, which is stiffened with a starch filler to facilitate handling and prevent the penetration of glue. Used for strengthening sections, maps, endpapers, spines and the hinges of books."]
+    },
+    {
+      "term": "Jog",
+      "definitions": ["See knock up."]
+    },
+    {
+      "term": "Joint, shoulder",
+      "definitions": ["The right-angled groove formed in the back folds of the sections, into which the cover boards are placed."]
+    },
+    {
+      "term": "Kettle stitch, catch stitch",
+      "definitions": ["A catch stitch or knot made at the end of each section to join it to the preceding one. (From the German word ketteln, 'to pick up stitches'.)"]
+    },
+    {
+      "term": "Knock up (US: jog)",
+      "definitions": ["To tap the sections or sheets at the spine and head so that they lie evenly and squarely. It is an important part of many binding operations, especially before cutting the edges."]
+    },
+    {
+      "term": "Kraft",
+      "definitions": ["A strong, brown wrapping paper used as a second lining to reinforce the spine of a book. It is also used for making the hollow."]
+    },
+    {
+      "term": "Laid (paper)",
+      "definitions": ["Handmade paper showing parallel wire marks about 25 mm apart in one direction, with close-set wire marks in the other. These marks are caused by the sieve operated by the paper maker. The pattern can be imitated on machine-made papers by means of the Dandy roller."]
+    },
+    {
+      "term": "Laminated",
+      "definitions": ["Two or more materials stuck together in layers."]
+    },
+    {
+      "term": "Leather cloth",
+      "definitions": ["See rexine."]
+    },
+    {
+      "term": "Library style",
+      "definitions": ["A utility binding developed around the beginning of the twentieth century, when the public library system became widespread. It incorporated innovations and structural differences that give strength and durability, such as sewn-on tapes, reinforced endpapers and a thick leather cover. It normally has a tight back, and its main feature is the French groove."]
+    },
+    {
+      "term": "Lid and base",
+      "definitions": ["Two part boxes can be made using various thicknesses of board. They can be covered and lined in paper or material."]
+    },
+    {
+      "term": "Limp binding",
+      "definitions": ["A soft cover, very often with both squares extending over half the thickness of the book, thus enclosing the edges of the pages. Bibles are often limp bound."]
+    },
+    {
+      "term": "Linings",
+      "definitions": ["1. Pieces of strong paper pasted to the inside of boards to prevent their being warped by the covering material. 2. The two pieces of material which are used to strengthen the spine, the first being of mull and the second of Kraft."]
+    },
+    {
+      "term": "Loading",
+      "definitions": ["In paper making, the addition of kaolin or similar substances to the pulp at the mixer stage, to give opacity and a receptive surface for printing."]
+    },
+    {
+      "term": "Loose-leaf binding",
+      "definitions": ["A binding made up of single sheets of paper or other material, with or without holes punched or slots cut in the back margins, and held together by thongs, cords, posts, rings, wire spirals, plastic combs, bars or spring mechanisms."]
+    },
+    {
+      "term": "Machine-finished paper (m/f)",
+      "definitions": ["Paper as it leaves the machine without further surface treatment."]
+    },
+    {
+      "term": "Made",
+      "definitions": ["Two or more pieces of laminated paper or board, often used to refer to laminated endpapers."]
+    },
+    {
+      "term": "Marbled paper",
+      "definitions": ["Paper with a decorative, marble-like appearance, obtained by laying it onto a viscous liquid so that it picks up colours floating on the surface."]
+    },
+    {
+      "term": "Mechanical wood paper",
+      "definitions": ["Wood (usually pinus radiata in New Zealand) which is ground to pulp by machine and then made into paper. As it contains many impurities, it soon deteriorates and is used only for ephemeral printing."]
+    },
+    {
+      "term": "Morocco",
+      "definitions": ["Fine leather made from goatskin, and tanned with oak bark or sumach."]
+    },
+    {
+      "term": "Mould-made paper",
+      "definitions": ["Paper made on a machine in separate sheets. It is usually of good quality."]
+    },
+    {
+      "term": "Mull, super",
+      "definitions": ["An open-weave cotton cloth stiffened with starch to facilitate handling. It is used as the first lining on the spine."]
+    },
+    {
+      "term": "Octavo",
+      "definitions": ["A sheet of paper of any traditional size, folded three times to make a section of eight leaves."]
+    },
+    {
+      "term": "Onlay",
+      "definitions": ["A method of decorating a book bound in leather by pasting pieces of leather, often of different colours, directly onto the leather cover, and tooling the edges to bind them down."]
+    },
+    {
+      "term": "Outer joint",
+      "definitions": ["The flexible part of the covering material (leather, cloth or paper) on which the board opens. See also joint."]
+    },
+    {
+      "term": "Overcasting, oversewing",
+      "definitions": ["Reinforcing a section, or joining a number of single sheets together, by sewing through the back margin. Often used to reinforce first and last sections."]
+    },
+    {
+      "term": "Overhang",
+      "definitions": ["See squares."]
+    },
+    {
+      "term": "Overlap",
+      "definitions": ["See turn in."]
+    },
+    {
+      "term": "Pallet",
+      "definitions": ["Finishing tool that produces lines or long, narrow decorative strips used on spines. A name pallet impresses the binder's name on a signed binding."]
+    },
+    {
+      "term": "Parchment",
+      "definitions": ["Sheep or goatskin (with the hair removed) that has been split, soaked, limed and dried under tension, not tanned like leather."]
+    },
+    {
+      "term": "Paring",
+      "definitions": ["The process of thinning leather."]
+    },
+    {
+      "term": "Pastedown",
+      "definitions": ["See endpapers."]
+    },
+    {
+      "term": "Perfect binding",
+      "definitions": ["See adhesive binding."]
+    },
+    {
+      "term": "Perfecting",
+      "definitions": ["The technical term for printing the second or reverse side of a sheet."]
+    },
+    {
+      "term": "Persionalisation",
+      "definitions": ["Using one of the many type faces we hold, used for personalising books, boxes and various other items."]
+    },
+    {
+      "term": "Pieced slipcase",
+      "definitions": ["Pieced together using 5 separate boards allowing for square edges. Usually 3mm board."]
+    },
+    {
+      "term": "PIRA test",
+      "definitions": ["A test of bookbinding leathers to ascertain that they are free from injurious acids. It was instigated by the Printing Industries Research Association, and leather which has passed this test should bear the letters PIRA. Not universally regarded as authoritative, however."]
+    },
+    {
+      "term": "Pitch lines, pitch marks",
+      "definitions": ["Lines or marks drawn on one material to assist in positioning another material onto it quickly and accurately, especially when glue is used."]
+    },
+    {
+      "term": "Plates",
+      "definitions": ["Diagrams and illustrations printed on different paper from the text and bound either with the text or tipped in as separate leaves or sections."]
+    },
+    {
+      "term": "'Prelims', preliminaries, preliminary matter",
+      "definitions": ["The preliminary pages of a book, comprising the half-title page, the frontispiece, the title page, the imprint page, the contents page and any other pages up to the beginning of the main text. They often form the first section. In old books these pages are usually numbered with Roman numerals."]
+    },
+    {
+      "term": "Presentation Boxes",
+      "definitions": ["Inner tray with an outer case and magnetic closure. Can have a platform and a ribbon pull out."]
+    },
+    {
+      "term": "Protection sheet",
+      "definitions": ["See waste sheet."]
+    },
+    {
+      "term": "Pulling",
+      "definitions": ["Freeing the sections of a book from the original binding, in preparation for rebinding."]
+    },
+    {
+      "term": "Pulling",
+      "definitions": ["Freeing the sections of a book from the original binding, in preparation for rebinding."]
+    },
+    {
+      "term": "Quarto",
+      "definitions": ["A sheet of paper folded twice to make four leaves."]
+    },
+    {
+      "term": "Quire",
+      "definitions": ["A quantity of paper: 24 sheets of handmade, 25 sheets of machine made."]
+    },
+    {
+      "term": "Raised bands",
+      "definitions": ["See bands."]
+    },
+    {
+      "term": "Ream",
+      "definitions": ["A quantity of paper: 480 sheets of handmade, 500 sheets of machine made."]
+    },
+    {
+      "term": "Recto",
+      "definitions": ["The right-hand page of a book, usually with an odd page number."]
+    },
+    {
+      "term": "Register",
+      "definitions": ["A page-marker made of a length of ribbon, one end of which is glued to the spine before lining."]
+    },
+    {
+      "term": "Rexine, leather cloth",
+      "definitions": ["Cloth surfaced with a mixture of cellulose nitrate, camphor oil and alcohol, and embossed to look like leather."]
+    },
+    {
+      "term": "'Rough'",
+      "definitions": ["Handmade paper with a rough surface imparted to it by being pressed when wet between heavy felt mats, or 'blankets'. Artists' watercolour paper is an example."]
+    },
+    {
+      "term": "Rounding",
+      "definitions": ["Shaping the backbone of the book into a convex shape in preparation for backing."]
+    },
+    {
+      "term": "Saddle singer sewing",
+      "definitions": ["A line of thread run along the centre of a folded booklet. Can be different colours inside and out. Avoids the need for wire stitches. Suitable up to 3mm thick. Used for thin property brochures, childrens books."]
+    },
+    {
+      "term": "Saddle stitching",
+      "definitions": ["Securing the leaves of a single section by sewing with thread or inserting wire through the back fold."]
+    },
+    {
+      "term": "Sans-serif, sanserif",
+      "definitions": ["Type unornamented with serifs. Sometimes also grotesque or gothic. (French: 'without serifs'.)"]
+    },
+    {
+      "term": "Sections",
+      "definitions": ["A group of folded sheets, usually comprising 4, 8,12,16 or 32 pages, which together make up a complete book."]
+    },
+    {
+      "term": "Section sewing",
+      "definitions": ["One section placed on top of another and sewn together by machine."]
+    },
+    {
+      "term": "Semis (seme)",
+      "definitions": ["An heraldic term used to describe a background of scattered small tooled motifs."]
+    },
+    {
+      "term": "Serif",
+      "definitions": ["A small 'finishing' line used to embellish roman forms of printed type or other lettering. An early attempt to mimic the effect of hand lettering with a broad-tipped quill. (Dutch: Schreef, 'fine line in writing'.)"]
+    },
+    {
+      "term": "Setting the back",
+      "definitions": ["Fixing the shape of a book's spine permanently, by first pressing it in good shape and applying a thick layer of paste to the spine. In five minutes the paste is scraped to clean off the old glue and the book left to dry, when the shape of the spine is permanently set."]
+    },
+    {
+      "term": "Sewn binding",
+      "definitions": ["A binding made up of sections sewn together."]
+    },
+    {
+      "term": "Sewn block",
+      "definitions": ["The sewn sections that make up the text of the book."]
+    },
+    {
+      "term": "Shoulder",
+      "definitions": ["See joint."]
+    },
+    {
+      "term": "Side stitching",
+      "definitions": ["Securing sections or a number of single sheets together by sewing with thread or inserting wire through the back margins."]
+    },
+    {
+      "term": "Siding",
+      "definitions": ["In quarter or half bindings, covering the remainder of the exposed boards with cloth or paper after the leather or cloth has been attached."]
+    },
+    {
+      "term": "Signature",
+      "definitions": ["A printed letter or number usually placed at the bottom of the first page of each folded section to assist in the collation of the book."]
+    },
+    {
+      "term": "Signed binding",
+      "definitions": ["One in which the craftsman's name is displayed either by tooling in gold or blind, ink stamping on the end-leaves, or pasting in a printed trade label."]
+    },
+    {
+      "term": "Size",
+      "definitions": ["A solution of animal gelatin or resin added to paper to improve its permanence, strength, resistance to moisture, and to make it impervious to the penetration of writing and printing ink."]
+    },
+    {
+      "term": "Slips",
+      "definitions": ["Strips of thin vellum used as sewing supports. Often visible on the front covers of vellum bindings."]
+    },
+    {
+      "term": "Sombre",
+      "definitions": ["A style of binding frequently used on devotional works, featuring blind tooling on black leather."]
+    },
+    {
+      "term": "Spacing bar, pitching bar",
+      "definitions": ["A strip of board used to separate the two boards to a desired measurement when making case bindings; it is removed when the covering material is turned in."]
+    },
+    {
+      "term": "Spine",
+      "definitions": ["The part of the cover which wraps over the back of the book."]
+    },
+    {
+      "term": "Split board",
+      "definitions": ["A board made up of one piece of millboard and one of strawboard, laminated together save for a slit to contain the flange of tapes and waste sheet. It is one of the constructional features of the library style."]
+    },
+    {
+      "term": "Squares, overhang",
+      "definitions": ["The space between the boards or covers of a book and the sections. Their size is dependent on the size, use and binding style of the book. Although the squares protect the leaves, they should not be too large, for the covers must themselves be supported by the leaves."]
+    },
+    {
+      "term": "Stab stitching, stabbing",
+      "definitions": ["Securing a large number of single sheets together by driving metal staples more than half way through the back margins, from both sides."]
+    },
+    {
+      "term": "Stamps",
+      "definitions": ["Engraved or cast dies used to impress decorative motifs. Traditionally the term \"stamp\" has been used when describing early (e.g. fifteenth- and sixteenth-century) bindings, and \"tool\" when referring to bindings of the later period."]
+    },
+    {
+      "term": "Standing press",
+      "definitions": ["A large, heavy floor-standing press, capable of exerting great pressure."]
+    },
+    {
+      "term": "Start, stert",
+      "definitions": ["The projection at the foredge of one leaf or section beyond the others. It is usually caused by poor sewing and very thick sections."]
+    },
+    {
+      "term": "Stationery binding",
+      "definitions": ["Used for binding blank-leaved books intended to be written in, e.g. ledgers, account books. Frequently bound in vellum."]
+    },
+    {
+      "term": "Stiffener",
+      "definitions": ["In a case binding, a strip of paper or thin card, cut to the width of the spine, placed between the boards and glued onto the covering material to stiffen or strengthen the spine cloth."]
+    },
+    {
+      "term": "Stiff leaf",
+      "definitions": ["One piece of paper attached by adhesive to another to increase its substance and strength. The made endpaper is an example."]
+    },
+    {
+      "term": "Substance",
+      "definitions": ["The thickness and weight of paper, expressed in gsm (grams per square metre)."]
+    },
+    {
+      "term": "Sunken cord style",
+      "definitions": ["A style of binding in which the sections are sewn onto lengths of hemp cord that are recessed into the backs of the sections. The ends are called slips and are laced into the boards. The binding may be tight or hollow backed and the spine left smooth or with false bands."]
+    },
+    {
+      "term": "Super",
+      "definitions": ["See mull."]
+    },
+    {
+      "term": "Surface sizing",
+      "definitions": ["See tub sizing."]
+    },
+    {
+      "term": "Swell",
+      "definitions": ["The additional thickness in the sewn folds of the sections, caused by the sewing thread and any repair paper."]
+    },
+    {
+      "term": "Tail",
+      "definitions": ["The bottom of a binding or page."]
+    },
+    {
+      "term": "Tailband",
+      "definitions": ["A true headband consists of coloured threads entwined tightly round a core of vellum backed with leather, and is sewn through the sections, filling the gap at the spine between the bottom of the section and the edges of the boards. It thus helps to prevent the sections collapsing through the effect of gravity, and also serves to lessen the damage done when the book is pulled off the shelf by its headcap. Imitation headbands, which are purely decorative, are merely stuck to the back folds of the sections. The band at the tail of the book is sometimes called the tailband, and both head and tailbands are collectively referred to as endbands."]
+    },
+    {
+      "term": "Tanning",
+      "definitions": ["the preparation of a skin which turns it into leather. Immersion in tanning liquid made from vegetable materials renders it durable and suitable for bookbinding. See also tawing."]
+    },
+    {
+      "term": "Tawing",
+      "definitions": ["The preparation of a skin (usually pig or goat) by treating it with a mixture based on aluminium salts, which renders it flexible. An early alternative to tanning."]
+    },
+    {
+      "term": "Text block",
+      "definitions": ["The sections, sewn or unsewn, that make up the text of the book. See also sewn block."]
+    },
+    {
+      "term": "Three-up",
+      "definitions": ["Sewing three sections at a time, with one length of thread, to reduce swell."]
+    },
+    {
+      "term": "Three hole sewing",
+      "definitions": ["Sewing through the spine of a brochure in a figure of eight. The knot can be inside or out. Used for menus and thinner brochures"]
+    },
+    {
+      "term": "Tie-down",
+      "definitions": ["One of several loops of thread taken under the kettle stitches at intervals when embroidering a headband. It secures the headband to the book."]
+    },
+    {
+      "term": "Tight back",
+      "definitions": ["A spine where the covering material, usually leather, is attached directly to the lined or unlined backs of the sections. This is a much more durable method than the hollow back, which consists of a paper tube attached to the cover."]
+    },
+    {
+      "term": "Tip on, tip in, tip up",
+      "definitions": ["To incorporate a single sheet, plate, endpaper or section into a book by applying a narrow strip of adhesive to its back margin and sticking it to the back edge of a section."]
+    },
+    {
+      "term": "Title page",
+      "definitions": ["The recto of the third or fourth leaf of a book, on which is printed the complete title of the book, with other information such as author, volume number, date, patron, publisher's name, and place and date of publication."]
+    },
+    {
+      "term": "Tool",
+      "definitions": ["To title and decorate a binding by impressing engraved tools into the surface of the covering material. The impression can be in gold (gold foil or leaf), in colour (coloured foil) or 'blind' (a dark or black impression caused either by heat and pressure alone or by using a tool dabbed in printer's ink)."]
+    },
+    {
+      "term": "Trade binding",
+      "definitions": ["Prestige and miscellaneous bookbinding done by commercial firms employing journeymen (qualified binders) and apprentices trained in the craft. Most of the work is done by hand, but some machines are used. Any book pre-nineteenth century that was not bound up to the taste of the purchaser, but bound before sale."]
+    },
+    {
+      "term": "Tub sizing, surface sizing",
+      "definitions": ["The addition of size to paper after it has been manufactured, by passing it through a bath of animal gelatine."]
+    },
+    {
+      "term": "Turn-in, turnover, overlap",
+      "definitions": ["The part of the covering material which is turned in over the edges of the boards to protect them. It is a characteristic of all books except for some flush bindings."]
+    },
+    {
+      "term": "Two-up",
+      "definitions": ["Sewing two sections at a time, with one length of thread, to reduce swell."]
+    },
+    {
+      "term": "Unsewn binding",
+      "definitions": ["See adhesive binding."]
+    },
+    {
+      "term": "Vellum",
+      "definitions": ["Calfskin (with the hair removed) that has been soaked, limed and dried under tension, not tanned like leather."]
+    },
+    {
+      "term": "Verso",
+      "definitions": ["A left-hand page of a book, usually with an even page number."]
+    },
+    {
+      "term": "Warp",
+      "definitions": ["In cloth, the threads which run the length of the roll. Sometimes referred to as the grain direction. See also weft."]
+    },
+    {
+      "term": "Waste sheet, protection sheet",
+      "definitions": ["A protective sheet of paper incorporated in the endpapers and either cut down or removed during binding."]
+    },
+    {
+      "term": "Weft",
+      "definitions": ["In cloth, the threads which run at right angles to the length of the roll."]
+    },
+    {
+      "term": "Whole binding, full binding",
+      "definitions": ["A binding that is covered entirely in the same material."]
+    },
+    {
+      "term": "Wire part",
+      "definitions": ["In papermaking, the moving belt of woven phosphor bronze or nylon on which the pulp falls to make the paper web and which thus determines the grain direction of the fibres."]
+    },
+    {
+      "term": "Wove (paper)",
+      "definitions": ["Paper without a pattern of wires, normally visible when held to the light."]
+    },
+    {
+      "term": "Wrappers",
+      "definitions": ["The covers of a binding that has no boards. They can be paper or vellum."]
+    },
+    {
+      "term": "Yapp binding",
+      "definitions": ["A form of binding with squares extended to overlap the exposed edges of the paper and cover them completely. Yapp bindings are usually limp, with rounded corners, and are used mainly for devotional books (e.g. prayer books)."]
+    }
+  ],
+  "citations": [
+    {
+      "id": 1,
+      "citation": "Bookbinding Glossary (no date) Premium bookbinding | Custom bookbinding - Grays bespoke British bookbinders. Available at: https://www.graysbbb.co.uk/glossary.php (Accessed: 16 February 2024)."
+    },
+    {
+      "id": 2,
+      "citation": "Johnson, A.W. (1992) The Thames and Hudson Manual of bookbinding with 270 ill., in colour and black and white. London: Thames and Hudson."
+    }
+  ]
+}
